@@ -1,6 +1,6 @@
 //Create an application that prints all of the lyrics to '99 bottles of beer' 
-//Neil McCarthy - x23319828
 
+//Neil McCarthy - x23319828
 public class Bottlesofbeer {
     public static void main(String[] args) {
         //Declare variables
